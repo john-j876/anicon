@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "downloadUrl": "https://john-j876.github.io/anicon/version.json",
+  "versionCode": 2,
+  "versionName": "1.3",
+  "downloadUrl": "https://play.google.com/apps/testing/io.anime.app.anicon",
   "forceUpdate": false,
   "message": "Bug fixes, ui upgrades and improved performance."
 }
